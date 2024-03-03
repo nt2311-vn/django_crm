@@ -22,6 +22,7 @@ ENV/
 env/
 env.bak/
 venv.bak/
+virt/
 
 .mypy_cache/
 .dmypy.json
